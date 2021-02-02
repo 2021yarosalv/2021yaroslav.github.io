@@ -1,0 +1,61 @@
+.frm{
+    width: 50%;
+    border-radius: 20px;
+}
+
+.wd-cn{
+    width: 90%;
+    display: inline;
+}
+
+.wd-cn a{
+    font-size: 200%;
+}
+
+.wd-cn img{
+    width: 10%;
+}
+
+.tittt{
+    border-radius: 30px;
+    width: 90%;
+    text-align: center;
+}
+
+/* .mg{
+    margin-left: 50px;
+} */
+
+.tit img{
+    width: 15%;
+}
+
+.bt{
+    width: 500px;
+    height: 100px;
+    font-size: 50px;
+}
+
+.idd{
+    width: 90%;
+}
+
+.iddm{
+    width: 90%;
+}
+
+.post2{
+    border-radius: 15px;
+    width: 45%;
+}
+
+.post3{
+    border-radius: 15px;
+    width: 60%;
+}
+
+.post4{
+    border-radius: 15px;
+    width: 85%;
+}
+

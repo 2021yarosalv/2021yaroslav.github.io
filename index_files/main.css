@@ -1,0 +1,182 @@
+html{
+    overflow-x: hidden;
+}
+
+footer{
+    width: 100%;
+    height: 80px;
+    margin-top: 90%;
+    color: white;
+    background-color: black;
+}
+
+footer > a{
+    margin-left: 20px;
+}
+
+#mainform{
+    background-color: rgb(0, 94, 255);
+    box-shadow: 12px 12px 2px 1px rgb(251, 255, 0);
+    /* width: 500px;
+    height: 160px; */
+    width: 50%;
+    height: 40%;
+    border-radius: 20px;
+}
+
+#mainform > form{
+    padding-top: 10px;
+}
+
+#mainform > form > input{
+    width: 50%;
+    height: 40%;
+}
+
+.tx{
+    font-size: 30px;
+}
+
+.tx1{
+    font-size: 20px;
+}
+
+.el{
+    text-align: center;
+}
+
+#form{
+    background-color: aquamarine;
+    border-radius: 20px;
+    /* height: 300px;
+    width: 500px; */
+    width: 50%;
+    height: 40%;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+#form > form > input{
+    width: 49%;
+    height: 39%;
+}
+
+.system{
+    color: rgb(106, 106, 118);
+}
+
+.bt{
+    margin-left: 10px;
+}
+
+#text{
+    width: 90%;
+}
+
+#hd{
+    position: fixed;
+    width: 100%;
+}
+
+#cnt{
+    background-color: rgba(13, 203, 228, 0.637);
+    border-radius: 20px;
+    width: 99%;
+    height: 300px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+#area{
+    width: 80%;
+}
+
+#mn{
+    background-color: rgba(13, 203, 228, 0.637);
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    width: 90%;
+    border-radius: 20px;
+}
+
+#signin{
+    background-color: rgba(13, 203, 228, 0.637);
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    width: 90%;
+    border-radius: 20px;
+}
+
+.block-text h1{
+    color: #f1f2f5;
+}
+
+.block-text h2{
+    color: #f1f2f5;
+}
+
+.block-text h3{
+    color: #f1f2f5;
+}
+
+.block-text h4{
+    color: #f1f2f5;
+}
+
+.block-text h5{
+    color: #f1f2f5;
+}
+
+.block-text h6{
+    color: #f1f2f5;
+}
+
+.block-text a{
+    color: #f1f2f5;
+}
+
+/* #a0aec0 */
+body{
+    overflow: hidden;
+    background-color: #1a202c;
+}
+
+.logo{
+    width: 20%;
+    border-radius: 20px;
+}
+
+.fr{
+    width: 50%;
+}
+
+#inp{
+    width: 50%;
+    border-radius: 20px;
+}
+
+.text{
+    color: #f1f2f5;
+}
+
+.text-gray{
+    color: #a0aec0;
+}
+
+.post{
+    border-radius: 15px;
+    width: 60%;
+}
+
+.cr{
+    border-radius: 30px;
+    width: 50%;
+}
+
+.tit{
+    border-radius: 30px;
+    width: 50%;
+    text-align: center;
+}
+
+.txb{
+    border-radius: 30px;
+    width: 95%;
+}
+
